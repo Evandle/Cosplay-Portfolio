@@ -19,7 +19,6 @@ C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\ne
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
-C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\scopedcss\bundle\MyPortfolio.styles.css
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\scopedcss\projectbundle\MyPortfolio.bundle.scp.css
@@ -71,8 +70,6 @@ C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\ne
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\1y7vz97s41-{0}-abdmv1u4y3-abdmv1u4y3.gz
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\roe620ryfg-{0}-9hsif5t8mt-9hsif5t8mt.gz
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\4lxb8ra21u-{0}-dwu72t6gfx-dwu72t6gfx.gz
-C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\tx5yzu9j20-{0}-j9kh7zbw3b-j9kh7zbw3b.gz
-C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\hge07ga7ts-{0}-j9kh7zbw3b-j9kh7zbw3b.gz
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\staticwebassets.development.json
@@ -83,3 +80,7 @@ C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\ne
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\MyPortfolio.pdb
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\MyPortfolio.genruntimeconfig.cache
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\ref\MyPortfolio.dll
+C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\MyPortfolio.sourcelink.json
+C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
+C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\tx5yzu9j20-{0}-9lxy0ps0kr-9lxy0ps0kr.gz
+C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\hge07ga7ts-{0}-9lxy0ps0kr-9lxy0ps0kr.gz
