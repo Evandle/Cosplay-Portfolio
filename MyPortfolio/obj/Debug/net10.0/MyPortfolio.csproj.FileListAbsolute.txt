@@ -83,5 +83,5 @@ C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\ne
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\scopedcss\Components\Pages\About.razor.rz.scp.css
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\4pdvtsmv34-{0}-cktyk0q3a1-cktyk0q3a1.gz
-C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\tx5yzu9j20-{0}-5c6xu6p2v8-5c6xu6p2v8.gz
-C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\hge07ga7ts-{0}-5c6xu6p2v8-5c6xu6p2v8.gz
+C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\tx5yzu9j20-{0}-kos9doly3l-kos9doly3l.gz
+C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\hge07ga7ts-{0}-kos9doly3l-kos9doly3l.gz

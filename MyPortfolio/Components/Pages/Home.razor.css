@@ -61,6 +61,10 @@
     background-color: #8c161f;
     border-radius: 12px;
     transition: background-color 0.2s;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .btn-small:hover {
@@ -68,7 +72,7 @@
 }
 
 .btn-wide {
-    width: 80%;
+    width: 90%;
     box-sizing: border-box;
     padding: 15px;
     margin-bottom: 15px;
@@ -93,4 +97,10 @@
 .btn-small:focus-visible {
     outline: 3px solid #fff0f0;
     outline-offset: 3px;
+}
+
+.btn-small img {
+    width: 34px; 
+    height: 34px;
+    object-fit: contain; 
 }

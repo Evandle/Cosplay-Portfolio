@@ -4,37 +4,46 @@
 
 <section class="about">
 
-    
-    <div class="about-banner">
-        <div class="about-inner">
-            <a href="/" class="back-link">Back to home</a>
-        </div>
+    <div class="about-banner" style="background-image: url('images/banner.png')">
+        <a href="/" class="back-link" aria-label="Back to home">
+                <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+                    <path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor"
+                        stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+                </svg>
+            </a>
     </div>
 
     <div class="about-inner">
-        
-        <img class="about-avatar" src="images/profile.jpg" alt="Benedict" />
-        <span class="about-label">About me</span>
+        <div class="about-header">
+            <img class="about-avatar" src="images/profile.jpg" alt="profile-picture" />
+            <h1>Benedict</h1>
+            <p>Cosplayer, programmer, and professional procrastinator.</p>
 
-        
-        <div class="about-bio">
-            <h1>Hi, I'm Benedict.</h1>
-            <p>
-                Cosplayer, prop builder, and professional procrastinator. 
-            </p>
+            <div class="social-row">
+            <a href="https://facebook.com/benedictreynz.reynz" class="btn-small" aria-label="Facebook">
+                <img src="images/facebook-logo.png" alt="Facebook logo" />
+            </a>
+            <a href="https://x.com/godbrm123" class="btn-small" aria-label="X">
+                <img src="images/x-logo.webp" alt="X logo" />
+            </a>
+            <a href="https://github.com/Evandle" class="btn-small" aria-label="GitHub">
+                <img src="images/github-logo.png" alt="GitHub logo" />
+            </a>
+            </div>
         </div>
+        
 
         
+        
+        
+
         <div class="about-cards">
-            <article class="about-card">
-                
-            </article>
-            <article class="about-card">
-                
-            </article>
-            <article class="about-card">
-                
-            </article>
+            <div class="about-card" role="img" aria-label="Photo 1"
+                    style="background-image: url('images/about-1.jpg')"></div>
+            <div class="about-card" role="img" aria-label="Photo 2"
+                    style="background-image: url('images/about-2.jpg')"></div>
+            <div class="about-card" role="img" aria-label="Photo 3"
+                    style="background-image: url('images/about-3.jpg')"></div>
         </div>
     </div>
 
