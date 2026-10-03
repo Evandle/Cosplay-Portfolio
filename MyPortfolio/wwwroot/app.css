@@ -430,6 +430,9 @@
   .text-center {
     text-align: center;
   }
+  .text-\[1\.5rem\] {
+    font-size: 1.5rem;
+  }
   .text-\[1\.15rem\] {
     font-size: 1.15rem;
   }
@@ -525,6 +528,9 @@
     outline-color: var(--color-snow);
   }
   @media (width >= 40rem) {
+    .sm\:col-span-3 {
+      grid-column: span 3 / span 3;
+    }
     .sm\:aspect-\[4\/3\] {
       aspect-ratio: 4/3;
     }

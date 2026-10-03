@@ -36,6 +36,6 @@ C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\ne
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\ref\MyPortfolio.dll
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\MyPortfolio.sourcelink.json
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\scopedcss\Components\Pages\About.razor.rz.scp.css
-C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\4pdvtsmv34-{0}-2ukv10a76p-2ukv10a76p.gz
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\tx5yzu9j20-{0}-spvovcuupf-spvovcuupf.gz
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\hge07ga7ts-{0}-spvovcuupf-spvovcuupf.gz
+C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\4pdvtsmv34-{0}-38oxlfiszl-38oxlfiszl.gz

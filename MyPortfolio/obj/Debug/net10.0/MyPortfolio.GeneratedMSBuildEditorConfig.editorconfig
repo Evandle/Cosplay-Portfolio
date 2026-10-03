@@ -35,6 +35,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMaW5rQnV0dG9uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Goodday\!\!\!\!/Documents/AppDev/Cosplay-Portfolio/MyPortfolio/Components/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBYm91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Goodday\!\!\!\!/Documents/AppDev/Cosplay-Portfolio/MyPortfolio/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -62,7 +66,3 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/Goodday\!\!\!\!/Documents/AppDev/Cosplay-Portfolio/MyPortfolio/Components/Layout/ReconnectModal.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcUmVjb25uZWN0TW9kYWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-154p9n2wnj
-
-[C:/Users/Goodday\!\!\!\!/Documents/AppDev/Cosplay-Portfolio/MyPortfolio/Components/Pages/About.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBYm91dC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-7dzean77zw
