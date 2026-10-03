@@ -1,0 +1,21 @@
+<div class="mb-8 flex gap-3.75">
+    @foreach (var link in links)
+    {
+        <a href="@link.Href"
+            aria-label="@link.Label"
+            class="flex size-11.25 items-center justify-center rounded-xl bg-wine transition-colors duration-200 hover:bg-merlot focus-visible:outline-3 focus-visible:outline-offset-3 focus-visible:outline-snow">
+            <img src="@link.Icon" alt="@link.Label logo" class="size-8.5 object-contain" />
+        </a>
+    }
+</div>
+
+@code {
+    private record SocialLink(string Label, string Href, string Icon);
+
+    private readonly SocialLink[] links =
+    {
+        new("Facebook", "https://facebook.com/benedictreynz.reynz", "images/facebook-logo.png"),
+        new("X", "https://x.com/godbrm123", "images/x-logo.webp"),
+        new("GitHub", "https://github.com/Evandle", "images/github-logo.png"),
+    };
+}

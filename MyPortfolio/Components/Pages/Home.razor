@@ -1,31 +1,20 @@
-﻿@page "/"
+@page "/"
 
 <PageTitle>Cosplay Portfolio</PageTitle>
 
-<section class="home-page">
-    <div class="home-container">
-        <img class="profile-pic" src="images/profile.jpg" alt="profile picture" />
+<section class="flex min-h-dvh justify-center pt-7.5">
+    <div class="flex w-full max-w-[600px] flex-col items-center rounded-t-[20px] bg-cherry px-5 pt-12.5 pb-5 text-center text-blush shadow-[-10px_10px_4px_#121316]">
+        <img class="mb-4 size-37.5 rounded-full border-4 border-wine bg-wine object-cover" src="images/profile.jpg" alt="profile picture" />
 
-        <h1>Benedict</h1>
-        <p>just a random passer by in your life</p>
+        <h1 class="mt-2 mb-0.5 text-[2rem] leading-tight font-semibold">Benedict</h1>
+        <p class="mb-6 text-[1.15rem] opacity-90">just a random passer by in your life</p>
 
-        <div class="social-row">
-            <a href="https://facebook.com/benedictreynz.reynz" class="btn-small" aria-label="Facebook">
-                <img src="images/facebook-logo.png" alt="Facebook logo" />
-            </a>
-            <a href="https://x.com/godbrm123" class="btn-small" aria-label="X">
-                <img src="images/x-logo.webp" alt="X logo" />
-            </a>
-            <a href="https://github.com/Evandle" class="btn-small" aria-label="GitHub">
-                <img src="images/github-logo.png" alt="GitHub logo" />
-            </a>
-        </div>
+        <SocialLinks />
 
-        <a href="/about" class="btn-wide">about me</a>
-        <a href="#" class="btn-wide">tell me anything</a>
-        <a href="https://x.com/godbrm123" class="btn-wide">twitter</a>
-        <a href="https://facebook.com/benedictreynz.reynz" class="btn-wide">facebook</a>
-        <a href="https://github.com/Evandle" class="btn-wide">github</a>
-
+        <LinkButton Href="/about">about me</LinkButton>
+        <LinkButton Href="#">tell me anything</LinkButton>
+        <LinkButton Href="https://x.com/godbrm123">twitter</LinkButton>
+        <LinkButton Href="https://facebook.com/benedictreynz.reynz">facebook</LinkButton>
+        <LinkButton Href="https://github.com/Evandle">github</LinkButton>
     </div>
 </section>

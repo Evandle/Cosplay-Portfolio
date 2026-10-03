@@ -27,8 +27,16 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Goodday\!\!\!\!/Documents/AppDev/Cosplay-Portfolio/MyPortfolio/Components/LinkButton.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMaW5rQnV0dG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Goodday\!\!\!\!/Documents/AppDev/Cosplay-Portfolio/MyPortfolio/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Goodday\!\!\!\!/Documents/AppDev/Cosplay-Portfolio/MyPortfolio/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Goodday\!\!\!\!/Documents/AppDev/Cosplay-Portfolio/MyPortfolio/Components/Pages/NotFound.razor]
@@ -37,6 +45,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Goodday\!\!\!\!/Documents/AppDev/Cosplay-Portfolio/MyPortfolio/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Goodday\!\!\!\!/Documents/AppDev/Cosplay-Portfolio/MyPortfolio/Components/SocialLinks.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTb2NpYWxMaW5rcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Goodday\!\!\!\!/Documents/AppDev/Cosplay-Portfolio/MyPortfolio/Components/_Imports.razor]
@@ -54,7 +66,3 @@ build_metadata.AdditionalFiles.CssScope = b-154p9n2wnj
 [C:/Users/Goodday\!\!\!\!/Documents/AppDev/Cosplay-Portfolio/MyPortfolio/Components/Pages/About.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBYm91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-7dzean77zw
-
-[C:/Users/Goodday\!\!\!\!/Documents/AppDev/Cosplay-Portfolio/MyPortfolio/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-bdf1wj548n

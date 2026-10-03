@@ -36,7 +36,7 @@ C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\ne
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\MyPortfolio.genruntimeconfig.cache
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\ref\MyPortfolio.dll
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\MyPortfolio.sourcelink.json
-C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\scopedcss\Components\Pages\About.razor.rz.scp.css
-C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\tx5yzu9j20-{0}-gaqm26rkvk-gaqm26rkvk.gz
-C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\hge07ga7ts-{0}-gaqm26rkvk-gaqm26rkvk.gz
+C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\tx5yzu9j20-{0}-wbijdajnj9-wbijdajnj9.gz
+C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\hge07ga7ts-{0}-wbijdajnj9-wbijdajnj9.gz
+C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\4pdvtsmv34-{0}-5ymj32e9by-5ymj32e9by.gz
