@@ -27,6 +27,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Goodday\!\!\!\!/Documents/AppDev/Cosplay-Portfolio/MyPortfolio/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Goodday\!\!\!\!/Documents/AppDev/Cosplay-Portfolio/MyPortfolio/Components/LinkButton.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMaW5rQnV0dG9uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -54,10 +58,6 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/Goodday\!\!\!\!/Documents/AppDev/Cosplay-Portfolio/MyPortfolio/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Goodday\!\!\!\!/Documents/AppDev/Cosplay-Portfolio/MyPortfolio/Components/Layout/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-qh8gvnr70c
 
 [C:/Users/Goodday\!\!\!\!/Documents/AppDev/Cosplay-Portfolio/MyPortfolio/Components/Layout/ReconnectModal.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcUmVjb25uZWN0TW9kYWwucmF6b3I=

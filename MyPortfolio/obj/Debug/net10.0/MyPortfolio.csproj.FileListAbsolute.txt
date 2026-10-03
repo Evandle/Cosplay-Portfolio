@@ -18,7 +18,6 @@ C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\ne
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
-C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\scopedcss\bundle\MyPortfolio.styles.css
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\scopedcss\projectbundle\MyPortfolio.bundle.scp.css
@@ -37,6 +36,6 @@ C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\ne
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\ref\MyPortfolio.dll
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\MyPortfolio.sourcelink.json
 C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\scopedcss\Components\Pages\About.razor.rz.scp.css
-C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\tx5yzu9j20-{0}-wbijdajnj9-wbijdajnj9.gz
-C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\hge07ga7ts-{0}-wbijdajnj9-wbijdajnj9.gz
-C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\4pdvtsmv34-{0}-5ymj32e9by-5ymj32e9by.gz
+C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\4pdvtsmv34-{0}-2ukv10a76p-2ukv10a76p.gz
+C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\tx5yzu9j20-{0}-spvovcuupf-spvovcuupf.gz
+C:\Users\Goodday!!!!\Documents\AppDev\Cosplay-Portfolio\MyPortfolio\obj\Debug\net10.0\compressed\hge07ga7ts-{0}-spvovcuupf-spvovcuupf.gz

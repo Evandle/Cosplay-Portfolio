@@ -2,48 +2,36 @@
 
 <PageTitle>About me</PageTitle>
 
-<section class="about">
+<section class="min-h-dvh text-blush">
 
-    <div class="about-banner" style="background-image: url('images/banner.png')">
-        <a href="/" class="back-link" aria-label="Back to home">
-                <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
-                    <path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor"
+    <div class="h-75 bg-crimson bg-cover bg-center bg-no-repeat pt-5" style="background-image: url('images/banner.png')">
+        <a href="/" aria-label="Back to home"
+            class="inline-block rounded-full bg-page/35 px-4 py-2 font-medium text-snow transition-colors duration-200 hover:bg-page/60 focus-visible:outline-3 focus-visible:outline-offset-3 focus-visible:outline-snow">
+            <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+                <path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor"
                         stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
-                </svg>
-            </a>
+            </svg>
+        </a>
     </div>
 
-    <div class="about-inner">
-        <div class="about-header">
-            <img class="about-avatar" src="images/profile.jpg" alt="profile-picture" />
-            <h1>Benedict</h1>
-            <p>Cosplayer, programmer, and professional procrastinator.</p>
+    <div class="mx-auto w-full max-w-[1020px] px-5">
+        <div class="mb-10">
+            <img class="relative -mt-15 block size-30 rounded-full border-4 border-page bg-poppy object-cover" src="images/profile.jpg" alt="profile-picture" />
 
-            <div class="social-row">
-            <a href="https://facebook.com/benedictreynz.reynz" class="btn-small" aria-label="Facebook">
-                <img src="images/facebook-logo.png" alt="Facebook logo" />
-            </a>
-            <a href="https://x.com/godbrm123" class="btn-small" aria-label="X">
-                <img src="images/x-logo.webp" alt="X logo" />
-            </a>
-            <a href="https://github.com/Evandle" class="btn-small" aria-label="GitHub">
-                <img src="images/github-logo.png" alt="GitHub logo" />
-            </a>
-            </div>
+            <h1 class="my-5 text-[2rem] font-bold">Benedict</h1>
+            <p class="my-4">Cosplayer, programmer, and professional procrastinator.</p>
+
+            <SocialLinks />
         </div>
-        
 
-        
-        
-        
-
-        <div class="about-cards">
-            <div class="about-card" role="img" aria-label="Photo 1"
-                    style="background-image: url('images/about-1.jpg')"></div>
-            <div class="about-card" role="img" aria-label="Photo 2"
-                    style="background-image: url('images/about-2.jpg')"></div>
-            <div class="about-card" role="img" aria-label="Photo 3"
-                    style="background-image: url('images/about-3.jpg')"></div>
+        @* One column on phones, three from the "sm" breakpoint (640px) up *@
+        <div class="mt-4 grid grid-cols-1 gap-4 pb-10 sm:grid-cols-3">
+            <div class="rounded-[14px] bg-crimson p-5 text-snow sm:aspect-[4/3]" role="img" aria-label="Photo 1"
+                style="background-image: url('images/about-1.jpg')"></div>
+            <div class="rounded-[14px] bg-crimson p-5 text-snow sm:aspect-[4/3]" role="img" aria-label="Photo 2"
+                style="background-image: url('images/about-2.jpg')"></div>
+            <div class="rounded-[14px] bg-crimson p-5 text-snow sm:aspect-[4/3]" role="img" aria-label="Photo 3"
+                style="background-image: url('images/about-3.jpg')"></div>
         </div>
     </div>
 
