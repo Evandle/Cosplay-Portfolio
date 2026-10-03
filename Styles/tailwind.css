@@ -1,0 +1,29 @@
+@import "tailwindcss";
+@source "../Components";
+
+@theme {
+    --font-sans: "Fredoka", "Comic Sans MS", sans-serif;
+
+    --color-page: #202227;     /* page background, avatar border */
+    --color-blush: #f7c6c6;    /* main text */
+    --color-snow: #fff0f0;     /* text on buttons and cards */
+    --color-crimson: #c0313d;  /* about banner and photo cards */
+    --color-cherry: #a6121f;   /* home card */
+    --color-poppy: #c8444f;    /* about avatar background */
+    --color-wine: #8c161f;     /* icon buttons, profile border */
+    --color-merlot: #5c0d13;   /* wide buttons, icon button hover */
+    --color-oxblood: #3b070b;  /* wide button hover */
+}
+
+@layer base {
+    html,
+    body {
+        background-color: var(--color-page);
+        scrollbar-width: none;
+    }
+
+    html::-webkit-scrollbar,
+    body::-webkit-scrollbar {
+        display: none;
+    }
+}
